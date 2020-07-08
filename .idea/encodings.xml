@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ruoyi/bin/clean.bat" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ruoyi/bin/package.bat" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ruoyi/bin/run-tomcat.bat" charset="GBK" />
+  </component>
+</project>
